@@ -215,7 +215,7 @@ $$O = [q_{1:7},\ \dot{q}_{1:7},\ p_{ee},\ p_{goal} - p_{ee}]$$
 
 #### 动作空间（7维）
 
-$$a \in [-0.1, 0.1]^7 \quad \text{(delta control, action\_scale = 0.1)}$$
+a ∈ [-0.1, 0.1]^7   (delta control, action_scale = 0.1)
 
 #### 奖励函数（7项组合）
 
