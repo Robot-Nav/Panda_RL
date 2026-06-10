@@ -10,8 +10,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/fatu08/mujoco-learning?style=social)](https://github.com/fatu08/mujoco-learning)
 
-PPO + MuJoCo 强化学习训练框架 — 单臂目标到达 / 单臂避障 / 双臂避障
-持续更新ing
+> PPO + MuJoCo 强化学习训练框架 — 单臂目标到达 / 单臂避障 / 双臂避障
+> 持续更新ing）
 
 
 </div>
