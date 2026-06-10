@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/8078ce89-4ace-4fbc-b761-b4de4069ecf0
 
 
 
-3）Dual Arm Obstacle
+3）Dual Arm Obstacle（训练阶段）
 
 https://github.com/user-attachments/assets/422ab354-55e5-4989-8921-4b8322aff092
 
